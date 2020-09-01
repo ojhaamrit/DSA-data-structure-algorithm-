@@ -1,5 +1,10 @@
 package org.amrit.sorting;
 
+/**
+ * MergeSort:- is a divide & conquer algorithm based on the idea of breaking down a list into several sublist
+ * until each sublist consists of single element and merging those sublist in a manner that result into a
+ * sorted list.
+ */
 public class MergeSort {
 
     int[] array;
